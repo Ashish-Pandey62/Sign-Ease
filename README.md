@@ -1,4 +1,4 @@
-# Sign-Ease2.0
+# Sign-Ease
 
 Bridging Communication Through Hand Signs for Enhanced Health and Wellbeing
 
