@@ -60,9 +60,7 @@ python access.py
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1T_CnQJQ4oYomFBAdMkpg6YkIfK57T5Ta/view?usp=sharing)
 
 ## Usage
 
