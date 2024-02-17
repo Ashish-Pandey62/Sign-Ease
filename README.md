@@ -7,7 +7,7 @@ Bridging Communication Through Hand Signs for Enhanced Health and Wellbeing
 - [@Darshan_Paudel](https://github.com/Darshan808)
 - [@Ashish_Pandey](https://github.com/Ashish-Pandey62)
 - [@Ankit_Mehta](https://github.com/Ankitrajmehta)
-- [@Gyaneshwar Sah](https://github.com/gyaneshwar01)
+- [@Snigdh Karki](https://github.com/snigdhkarki/)
 
 ## Demo
 
